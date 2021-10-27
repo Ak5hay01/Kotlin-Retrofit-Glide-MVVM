@@ -10,6 +10,10 @@ Dependencies used for Glide, Retrofit and Lifecycle
 
 ```
 
+I have prepared a small exmaple in which we can search all the repositories on the Github using key words or exact name using search functionality. The data is bind in the recycler view and Diffutil is used for better performance. 
+
+Following are the screenshots of the App 
+
 # Home Screen 
 ![alt text](/screenshots/home_without_search.PNG)
 
